@@ -1,2 +1,2 @@
 # eyes
-This will show you how to move mouse to show how the eyes respond
+This was a great exercise to demonstrate how to make objects respond to mouse movement in CSS. 
